@@ -1,13 +1,13 @@
 # Various OMICS projects
 
-# DNA Translator
-DNA Translator - a simple tool for translating amino acids sequence into RNA, DNA codons sequence
+# (1) DNA Translator
+DNA Translator - a simple tool for translating amino acids sequence into RNA, DNA codons sequence (back-translation)
 
 # Usage
 
 Set a parameter: 
 	PDB Id - Protein Id RCSB Protein Data Bank,
-	eg. 3e7y for Insul
+	eg. 3e7y for Insulin
 
 # Example
 	PDB: 3e7y
@@ -21,3 +21,7 @@ Set a parameter:
 	['GAA', 'GAG']
 	['CAA', 'CAG']
 	...
+
+
+# (2) Point Mutations Simulator
+Point Mutations Simulator - a simplified model of point mutations in DNA
