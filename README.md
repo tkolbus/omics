@@ -1,6 +1,12 @@
 # DNA Translator
 DNA Translator - a simple tool for translating amino acids sequence into RNA, DNA codons sequence
 
+# Usage
+
+Set a parameter: 
+	PDB Id - Protein Id RCSB Protein Data Bank,
+	eg. 3e7y for Insul
+
 # Example
 	PDB: 3e7y
 	AA1: GIVEQCCTSICSLYQLENYCNFVNQHLCGSHLVEALYLVCGERGFFYTPK
