@@ -25,3 +25,6 @@ Set a parameter:
 
 # (2) Point Mutations Simulator
 Point Mutations Simulator - a simplified model of point mutations in DNA
+
+# (3) Signal Paths Simulator
+Simulate singal paths by solving an initial value problem for a system of ODEs (ordinary differential equations) using Michaelisa-Menten enzyme kinetics
